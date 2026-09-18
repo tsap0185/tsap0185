@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/495ab452-309c-4bae-8180-861dc4811d23.jpeg?v=1789553902)](https://www.boot.dev/certificates/495ab452-309c-4bae-8180-861dc4811d23)
+# Some cert i guess?
+Boot.dev Learn Linux certificate
+<a href="https://www.boot.dev/certificates/495ab452-309c-4bae-8180-861dc4811d23">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/495ab452-309c-4bae-8180-861dc4811d23.jpeg?v=1789553902" width="400">
+</a>
